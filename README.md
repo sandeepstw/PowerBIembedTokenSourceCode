@@ -14,5 +14,7 @@ Login to http://portal.azure.com/, got Active Directory and App Registration par
 IF you are getting this error verify redirect url and and Default client type. Redirect url must be same from which you are callling api. 
 ![Redirect URL](https://github.com/stw-services/PowerBIembedTokenSourceCode/blob/master/PowerBIEmbedded_AppOwnsData/images/RedirectURL.PNG)
 
-###Default client type
+### Default client type
 ![Default client type](https://github.com/stw-services/PowerBIembedTokenSourceCode/blob/master/PowerBIEmbedded_AppOwnsData/images/Implicit%20Grant.PNG)
+
+For PowerBI consultation connect us on info@softechworld.com

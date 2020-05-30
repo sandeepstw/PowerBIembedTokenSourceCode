@@ -10,6 +10,10 @@ Login to http://portal.azure.com/, got Active Directory and App Registration par
 
 ![Grand Admin Consents](https://github.com/stw-services/PowerBIembedTokenSourceCode/blob/master/PowerBIEmbedded_AppOwnsData/images/Grant%20Admin%20Consents.PNG)
 
+## Update web config 
+Update given values in web config before running application. 
+![Power BI Embed token web config](https://github.com/stw-services/PowerBIembedTokenSourceCode/blob/master/PowerBIEmbedded_AppOwnsData/images/UpdateWebconfig.PNG)
+
 ## AADSTS7000218: The request body must contain the following parameter: 'client_assertion' or 'client_secret' 
 IF you are getting this error verify redirect url and and Default client type. Redirect url must be same from which you are callling api. 
 ![Redirect URL](https://github.com/stw-services/PowerBIembedTokenSourceCode/blob/master/PowerBIEmbedded_AppOwnsData/images/RedirectURL.PNG)
